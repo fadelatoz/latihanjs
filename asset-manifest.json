@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.072d3ff7.chunk.css",
-    "main.js": "/static/js/main.e196678f.chunk.js",
-    "main.js.map": "/static/js/main.e196678f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.138aa97e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.138aa97e.js.map",
-    "static/js/2.e7a679d9.chunk.js": "/static/js/2.e7a679d9.chunk.js",
-    "static/js/2.e7a679d9.chunk.js.map": "/static/js/2.e7a679d9.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.7ec0e1b58ac9c96a29ed75d2f440efe3.js": "/precache-manifest.7ec0e1b58ac9c96a29ed75d2f440efe3.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.072d3ff7.chunk.css.map": "/static/css/main.072d3ff7.chunk.css.map",
-    "static/js/2.e7a679d9.chunk.js.LICENSE.txt": "/static/js/2.e7a679d9.chunk.js.LICENSE.txt",
-    "static/media/Fadel Foto.jpg": "/static/media/Fadel Foto.7110d768.jpg"
+    "main.css": "/latihanjs/static/css/main.072d3ff7.chunk.css",
+    "main.js": "/latihanjs/static/js/main.8d5d5071.chunk.js",
+    "main.js.map": "/latihanjs/static/js/main.8d5d5071.chunk.js.map",
+    "runtime-main.js": "/latihanjs/static/js/runtime-main.a02fe5bd.js",
+    "runtime-main.js.map": "/latihanjs/static/js/runtime-main.a02fe5bd.js.map",
+    "static/js/2.e7a679d9.chunk.js": "/latihanjs/static/js/2.e7a679d9.chunk.js",
+    "static/js/2.e7a679d9.chunk.js.map": "/latihanjs/static/js/2.e7a679d9.chunk.js.map",
+    "index.html": "/latihanjs/index.html",
+    "precache-manifest.15300997aa56718f6eb7b5f271cb57bf.js": "/latihanjs/precache-manifest.15300997aa56718f6eb7b5f271cb57bf.js",
+    "service-worker.js": "/latihanjs/service-worker.js",
+    "static/css/main.072d3ff7.chunk.css.map": "/latihanjs/static/css/main.072d3ff7.chunk.css.map",
+    "static/js/2.e7a679d9.chunk.js.LICENSE.txt": "/latihanjs/static/js/2.e7a679d9.chunk.js.LICENSE.txt",
+    "static/media/Fadel Foto.jpg": "/latihanjs/static/media/Fadel Foto.7110d768.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.138aa97e.js",
+    "static/js/runtime-main.a02fe5bd.js",
     "static/js/2.e7a679d9.chunk.js",
     "static/css/main.072d3ff7.chunk.css",
-    "static/js/main.e196678f.chunk.js"
+    "static/js/main.8d5d5071.chunk.js"
   ]
 }
