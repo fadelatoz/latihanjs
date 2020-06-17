@@ -1,10 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './CSS/index.scss';
-import Latihan from './latihan';
 import * as serviceWorker from './serviceWorker';
+import Latihan8 from './Tabelform';
+import Foo from './latihan'
 
-ReactDOM.render(<Latihan />,document.getElementById('root')
+ReactDOM.render(<Latihan8 />,document.getElementById('root')
 );
 
 
